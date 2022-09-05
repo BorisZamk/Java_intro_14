@@ -13,6 +13,6 @@ public class FirstProgram {
                 + "ID пациента: " + pBoris.getPersonID() + "\n"
                 + "Возраст пациента: " + pBoris.GetAge() + "\n"
                 + "Назначеное лечение: " + pBoris.getTreatment());
-        System.out.println("Test message");
+
     }
 }
